@@ -11,11 +11,11 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Kickstart my Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Understanding basic Docker commands, image execution, and container runtime.  
 
-**2. [Dockerized Streamlit Development Environment](https://github.com/vidhi-jaju/DockSpace/tree/df41de74910a233bef78986f156505a9be520188/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
+**2. [Dockerized Streamlit Development Environment](https://github.com/divyanshsaxena002/Dockspace/tree/main/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
    - **Goal:** Build a containerized Streamlit environment for smooth and efficient data visualization.  
    - **Key Focus:** Web app deployment, interactive UI, and container efficiency.  
 
-**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/vidhi-jaju/DockSpace/tree/df41de74910a233bef78986f156505a9be520188/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🚢**  
+**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/divyanshsaxena002/Dockspace/tree/main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🚢**  
    - **Goal:** Deploy a Machine Learning-powered Titanic survival prediction app using Streamlit and Docker.  
    - **Key Focus:** ML model serving, interactive UI, and cloud deployment.  
 
