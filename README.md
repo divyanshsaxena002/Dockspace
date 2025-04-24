@@ -49,7 +49,11 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
 
 **11. [Microservice Orchestration and Kubernetes](https://github.com/divyanshsaxena002/Dockspace/tree/main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes) ☁️**
    - **Goal:**  How to deploy a microservices-based architecture using Minikube, Kubernetes, and Docker. It consists of an API Gateway and a Backend Service running inside a Minikube cluster..  
-   
+
+**12 [Microservices Architecture using Docker Swarm](https://github.com/divyanshsaxena002/Dockspace/tree/main/12.%20Microservices%20Architecture%20using%20Docker%20Swarm) ☁️**
+   - **Goal:**  How to deploy a microservices architecture using Docker Swarm, featuring an API Gateway and a Backend Service.  
+
+
 
 
 
