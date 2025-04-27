@@ -13,7 +13,7 @@ Welcome to the **Titanic Survival Predictor**! This project allows users to pred
 
 Here’s a preview of the Titanic Survival Predictor app:
 
-![App Preview](https://github.com/divyanshsaxena002/Dockspace/tree/c0a309133d3e4a7545f91440e5f1e7ba01665ced/3.%20titanic-survival-predictor/img)
+![App Preview](https://github.com/divyanshsaxena002/Dockspace/blob/main/3.%20titanic-survival-predictor/img/1.png)
 
 ---
 
