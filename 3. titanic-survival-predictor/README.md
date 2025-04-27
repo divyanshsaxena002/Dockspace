@@ -13,7 +13,7 @@ Welcome to the **Titanic Survival Predictor**! This project allows users to pred
 
 Here’s a preview of the Titanic Survival Predictor app:
 
-![App Preview](https://github.com/Tanmay-hue/Streamlit_Titanic_Survival/blob/master/image.png)
+![App Preview](https://github.com/divyanshsaxena002/Dockspace/tree/c0a309133d3e4a7545f91440e5f1e7ba01665ced/3.%20titanic-survival-predictor/img)
 
 ---
 
@@ -113,9 +113,3 @@ titanic-survival-predictor/
 - **Docker** (for containerizing the app)
 - **GitHub** (for version control and deployment)
 
----
-
-Happy coding and may the odds of survival be ever in your favor! 🏆💻
-
-By - Tanmay Singh
-```
